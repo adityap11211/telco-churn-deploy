@@ -1,3 +1,6 @@
+st.experimental_memo.clear()
+st.experimental_singleton.clear()
+
 import os
 print("Current working directory:", os.getcwd())
 print("Files in current directory:", os.listdir())
