@@ -1,3 +1,5 @@
+import streamlit as st
+
 st.experimental_memo.clear()
 st.experimental_singleton.clear()
 
